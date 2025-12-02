@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Ronak Philip Jacob
 
-<!--
-**ronakphilipjacob/ronakphilipjacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Platform Engineer | Cloud & DevOps Specialist | Infrastructure Enthusiast
 
-Here are some ideas to get you started:
+I design, build, and automate scalable cloud platforms that power modern applications. With hands-on experience across Azure, Kubernetes, CI/CD, containers, infrastructure automation, and application delivery, I focus on enabling engineering teams to ship reliably and securely — with minimal friction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What I Do
+
+Cloud Architecture & Platform Engineering across Azure (PaaS + IaaS)
+Infrastructure-as-Code using Terraform, GitOps, self-service provisioning frameworks
+Kubernetes Expertise – AKS, ArgoCD, Helm
+CI/CD Pipeline Engineering using Azure DevOps, GitHub Actions
+
+📌 What Drives Me
+
+I love solving platform-level challenges — making systems more scalable, reliable, reproducible, and developer-friendly. Whether it’s a cloud landing zone, a CI/CD pipeline, a zero-touch deployment framework, or a Kubernetes-based platform, I enjoy building the glue that powers everything underneath.
+
+📫 Let’s Connect
+
+If you're into cloud, DevOps, infra automation, or platform engineering—I'd love to collaborate and learn together.
