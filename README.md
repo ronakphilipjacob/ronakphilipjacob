@@ -43,18 +43,6 @@ I love solving platform-level challenges — making systems more scalable, relia
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ronakphilipjacob&show_icons=true&hide_border=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakphilipjacob&layout=compact&hide_border=true" />
-
-</div>
-
----
-
 ## 📫 **Let’s Connect**
 
 If you're into cloud, DevOps, infra automation, or platform engineering — I'd love to collaborate and learn together.
